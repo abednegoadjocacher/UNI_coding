@@ -5,6 +5,7 @@
 using namespace std;
 int main()
 {
+    //Declaration of variables
     int lenght;
     int breadth;
     int area;
