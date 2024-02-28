@@ -6,3 +6,4 @@ Each division of the stadinm has it own fare.
 The user is expect to enter the number audience needed for each apartment.
 I learnt to implement a simple if condition in a programe with else with else statements.
 Also, the amount is made user friendly to ask for the prize.
+To know if a number is even or not even.
