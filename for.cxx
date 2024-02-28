@@ -12,5 +12,16 @@ int main()
     int j;
     for (j=1; j<10; j++)
     cout << j << endl;
+
+    //To run an infinite for loop
+   /* cout<<"This loop is infinite\n";
+    int k;
+    for(;;k++)
+    cout<<k<<endl;*/
+    //there are more you can do with for loop
+    cout<<"more for loop\n";
+    int n,m;
+    for (/*n=1,m=0*/;/*n<19,*/m<10;n++,m++);//it prints out garbage values
+    cout<<n<<m<<endl;
     return 0;
 }
