@@ -2,6 +2,24 @@
 using namespace std;
 int main()
 {
+
+/**
+ * A programe to print *******
+ *                     *******
+ *                     *******
+ *                     *******
+*/
+for(int i = 0;i<4;i++)
+{
+   for(int j=0;j<6;j++)
+   {
+   cout <<'*';
+   }
+cout<<endl;
+}
+
+
+
     /**
      * Array declaration.
      * Array intialization
