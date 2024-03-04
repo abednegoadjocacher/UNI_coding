@@ -12,7 +12,7 @@ int main()
     */
    string str;
    cout << "Enter a string : ";
-   cin >> str;
+   cin>>str;
    for(int i = 0;i < str.length()/2;i++)
    
     if (str[i] == str[str.length()-i-1])
@@ -21,6 +21,6 @@ int main()
     
    else
    cout << "The string is Not a Palindrome : "<<str<<endl;
-    
+   
     return 0;
 }
