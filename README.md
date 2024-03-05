@@ -9,3 +9,4 @@ Also, the amount is made user friendly to ask for the prize.
 To know if a number is even or not even.A nested if and else if statements to check grade.
 I solve some complex problems relating to a program that allows user to enter value.
 Then the value is calculated to find the sum number of even and odd number within the user entered number.Also, I handle the case to prompt the user entering an invalid number.
+Moreover, I wrote simple programs to check for even number, check for a vow, check for a palindrome word, find a single element in an array, etc.
