@@ -9,8 +9,8 @@ int main()
     cout<<a<<':'<<"is largest"<<endl;
     else if(b>a&&b>c)
     cout<<b<<':'<<"is largest"<<endl;
-
     else 
     cout <<c<< ": "<<"largest"<<endl;
+    return 0;
 }
 

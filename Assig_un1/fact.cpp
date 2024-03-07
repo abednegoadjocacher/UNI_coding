@@ -12,8 +12,8 @@ int main()
    cout<<"The factorial of the number  "<<num<<"! "<<" is 1"<<endl;
    else
    {
-   for(int i=1; i<=num; i++)
-    factorial = factorial *  i;
+   for(int read=num; read>=2; read--)
+    factorial = factorial *  read;
     cout<<"The factorial of the number is : "<<factorial<<endl;
    }
     return 0;
