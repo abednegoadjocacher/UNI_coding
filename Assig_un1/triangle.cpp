@@ -2,14 +2,12 @@
 using namespace std;
 int main()
 {
-    int base;
-    int height;
-    int area_triangle = 0;
-    cout<<"Enter the base length : ";
+    double base, height, A_triangle = 0; 
+    cout<<"Enter the base length of the triangle : ";
     cin>>base;
     cout<<"Enter the height of the triangle : ";
     cin>>height;
-    area_triangle = (1/2 * (base * height));
-    cout<<"The area of the triangle is : "<<area_triangle<<endl;
+    A_triangle =  (base * height) * 0.5;
+    cout<<"The area of the triangle is : "<<A_triangle<<endl;
     return 0;
 }
