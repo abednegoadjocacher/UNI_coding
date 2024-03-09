@@ -2,19 +2,21 @@
 using namespace std;
 int main()
 {
-    int i = 0;
-    int prime;
+    int prime, num, count;
     cout<<"Enter any number of choice : ";
-    cin>>prime;
-    if (prime % i == 0)
+    cin>>num;
+    for(count = 2;count < num; count++)
     {
-    for ( i = 2; /*(i * i)*/i <= (prime/2); i++)
-    
-    
-    cout<<"The number "<<prime<<" is not a prime number"<<endl;
+        if(num % count == 0)
+        {
+            prime = 0;
+            break;
+        }
     }
-    else
-    cout<<"The number "<<prime<<" is a prime"<<endl;
+        if(prime)
+        cout<<num<<" Is prime"<<endl;
+        else
+        cout<<num<<" Is not prime"<<endl;
 
     return 0;
 }
