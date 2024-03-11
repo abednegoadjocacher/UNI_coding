@@ -6,9 +6,11 @@ int main()
     int fact, number;
     cout <<" Enter the number to find its factorial : ";
     cin>>number;
-    fact = factorial(number);
+    fact = factorial(number);//function calling
     cout <<fact;
+    return 0;
 }
+/*function definition*/
 int factorial (int n)
 {
     if (n <= 1)

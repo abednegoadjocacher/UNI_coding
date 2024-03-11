@@ -1,0 +1,239 @@
+[33mcommit 947b7904b6e249e02cb2d8055d490ad06aa2e194[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Adjocacher Abednego <141531265+abednegoadjocacher@users.noreply.github.com>
+Date:   Fri Mar 8 09:38:49 2024 +0000
+
+    Committing local changes
+
+[33mcommit be4d309e0ef3a6be1eeb9dfa2f01de4aa7869d5d[m
+Author: Adjocacher Abednego <141531265+abednegoadjocacher@users.noreply.github.com>
+Date:   Fri Mar 8 09:30:05 2024 +0000
+
+    Committing local changes
+
+[33mcommit 7dbb346ee33b1f8e2460f3ef9a889f6949a379fd[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Tue Mar 5 23:14:40 2024 -1200
+
+    Factorial
+
+[33mcommit 5e6d2de1ad73df2bb6d9cc9c6a8b6c812e36cf5d[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Tue Mar 5 11:21:36 2024 -1200
+
+    Swap numbers
+
+[33mcommit 6001b025e2bd2d0b3e2a38e54c7f95c714afd5c9[m
+Merge: 5c4bb01 dfefc41
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Tue Mar 5 02:43:46 2024 -1200
+
+    Merge branch 'main' of https://github.com/abednegoadjocacher/UNI_coding
+
+[33mcommit 5c4bb018639a3819dd29e91ac294acefca74001e[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Tue Mar 5 02:43:06 2024 -1200
+
+    Largest
+
+[33mcommit dfefc41905684a6bfd5764388cbc9c5ff1e5e32f[m
+Author: Adjocacher Abednego <141531265+abednegoadjocacher@users.noreply.github.com>
+Date:   Tue Mar 5 09:40:10 2024 +0000
+
+    Update README.md
+    
+    Add more to readme
+
+[33mcommit cd59c0b61386eef61140a6c7ce00eb876c4cd2b9[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Mar 4 09:20:47 2024 -1200
+
+    To print a single element of array
+
+[33mcommit 14f5d9a977dee08c7d2dc33d96c294b44a030137[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Mar 4 07:59:29 2024 -1200
+
+    To print asterisk
+
+[33mcommit a49a528e3b7cff2d8fa15191538e744db1659c27[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Mar 4 07:09:15 2024 -1200
+
+    Array sum of product
+
+[33mcommit 7402c13a8320e5e76456cf0d266f5207ca52a819[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Mar 4 03:50:40 2024 -1200
+
+    Trying to solve my problems
+
+[33mcommit 59ca38757d5bfdff7506a45b74812afc7e68ed76[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Sat Mar 2 13:22:40 2024 -1200
+
+    Sum of arrays
+
+[33mcommit 5f6691d9139b8b53b25218a98400ae1bec7d0c88[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Sat Mar 2 12:48:12 2024 -1200
+
+    Arrays
+
+[33mcommit 4a8748ab70b701681179ccc207791f218b3fb2bb[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Sat Mar 2 01:09:55 2024 -1200
+
+    To compare strings
+
+[33mcommit c0d21bccae0e90d390e88508893d35003ce6300a[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Sat Mar 2 00:26:34 2024 -1200
+
+    Strings operations
+
+[33mcommit 46b19cd17017eb0dd2ae9eb59253c8fb0e359c79[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Sat Mar 2 00:05:20 2024 -1200
+
+    Strings operations
+
+[33mcommit 3c38316593b818f65442786bdf7898cccd778dae[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Fri Mar 1 21:12:09 2024 -1200
+
+    To_while loop
+
+[33mcommit b7a5557c51ddfe4fb52805e786282e2e61972a0b[m
+Merge: 4886369 73ae15a
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Thu Feb 29 10:40:23 2024 -1200
+
+    Merge branch 'main' of https://github.com/abednegoadjocacher/UNI_coding
+
+[33mcommit 48863698b9532c29ef07570f2c65f59095e48405[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Thu Feb 29 10:39:17 2024 -1200
+
+    Compilation in GNU standard
+
+[33mcommit 73ae15a6e84351b1e8eee811cab87976d7c85139[m
+Author: Adjocacher Abednego <141531265+abednegoadjocacher@users.noreply.github.com>
+Date:   Thu Feb 29 08:22:11 2024 -1200
+
+    Update README.md
+    
+    Some typological errors
+
+[33mcommit 309fdd21988c1a241b5f51e9297ca46a10c1f2d5[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Wed Feb 28 11:45:21 2024 -1200
+
+    Try out exercises
+
+[33mcommit e3808d1d7b4fc2e0bee8e88a87ffbe075314a3d0[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Wed Feb 28 11:39:48 2024 -1200
+
+    Try out exercises
+
+[33mcommit 42dfa7c1d1cf759fcb8e2282b1c6f3762b4443b0[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Wed Feb 28 05:48:16 2024 -1200
+
+    Switch statements
+
+[33mcommit 4f91c859ed1011f8055ebe57e95a90bbfca13b26[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Wed Feb 28 04:19:01 2024 -1200
+
+    Nested controlled statements
+
+[33mcommit 00b26b12330197da8674e28b6e3e273d4c1fa2cc[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Wed Feb 28 04:16:31 2024 -1200
+
+    Nested controlled statements
+
+[33mcommit 3ed5da1767f2645e993cc14b70a01a22eeae6b5c[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Wed Feb 28 00:43:34 2024 -1200
+
+    More for loop
+
+[33mcommit fc02c73f40aba9987e9acd064b28f6b872f80c02[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Tue Feb 27 19:32:28 2024 -1200
+
+    A for loop
+
+[33mcommit 6c264169ff6c76de3d8dec15c68f16926b7e389f[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Tue Feb 27 19:16:18 2024 -1200
+
+    Even or not even
+
+[33mcommit 9e08f319424b2439aab43967e38a8b0bdf0532e1[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Tue Feb 27 19:15:28 2024 -1200
+
+    Even or not even
+
+[33mcommit 80badf90e1ccd51e86942c699ddc91c233a76564[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Feb 26 09:22:07 2024 -1200
+
+    To make the amount flexible to change  anytime
+
+[33mcommit 4d12f7a1dd73bc14449884aed2e61079913898be[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Feb 26 09:21:05 2024 -1200
+
+    To make the amount flexible to change  anytime
+
+[33mcommit e8e8a945dd03270b03f57c45ba11e9380e58a0a3[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Feb 26 01:59:08 2024 -1200
+
+    Else-if statements
+
+[33mcommit c30c667d468cfbaafec3a8cf7f7d443e4f9ef84f[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Feb 26 01:00:28 2024 -1200
+
+    If statements
+
+[33mcommit 61eb3ed6cd82f6bc52d85a3bbdfaafd18c0ea83e[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Sun Feb 25 12:27:58 2024 -1200
+
+    Income earned
+
+[33mcommit 0c95ab5e48253b54497df376b737fd1f1e221e6d[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Sun Feb 25 12:26:33 2024 -1200
+
+    Income earned
+
+[33mcommit 639c36bb07d03ca13f43898ccf5a737ec94aaca5[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Feb 12 12:12:28 2024 -1200
+
+    To calculate the  area and the perimeter of rectangle
+
+[33mcommit 8757af889c59ae5fb06fed0c4a76570f965b1b96[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Feb 12 12:02:50 2024 -1200
+
+    To print the perimeter of rectangle
+
+[33mcommit 1675fe5d289dff05264a105bb7acf535b794204b[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Feb 12 11:35:57 2024 -1200
+
+    To print area of rectangle
+
+[33mcommit 559b5edd7e1094bf948c8a9ebe2a25c488213f0b[m
+Author: Adjocacher Abednego <abednegoadjocacher@gmail.com>
+Date:   Mon Feb 12 00:10:13 2024 -1200
+
+    Starting of coding at the university
