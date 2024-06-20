@@ -7,6 +7,8 @@ int main()
  * I used a for loop.
 */
 cout<<"\n\n";
+char space = ' ';
+cout<<"The ASCII value of space is "<<int(space)<<endl;
 cout<<"Letters in Lower case"<<"\n";
 cout<<" ___________________________________________ "<<endl <<"\n";
 for(char lowercaps = 'a'; lowercaps <= 'z'; lowercaps++)
