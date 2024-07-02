@@ -4,7 +4,7 @@ using namespace std;
  * A function to print a character a number of times
  * The function will accept two parameters
  * @char - The character the user will enter.
- * @number - The number of times to print thhe character
+ * @number - The number of times to print the character
  * @return - The function will return nothing.
  * void print_char - Function name.
 */
