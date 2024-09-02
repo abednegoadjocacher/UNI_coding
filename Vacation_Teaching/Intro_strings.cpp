@@ -14,6 +14,8 @@ int main()
 {
     string str = "Hello";
     string str1 = "World";
+    reverse(str.begin(),str.end());
+    cout<<"The reverse of Hello is : "<<str<<"\n";
     str.append(" ABED");//to append a string
     cout<<str<<" "+ str1<<endl;
     char  c = str.at(4);
