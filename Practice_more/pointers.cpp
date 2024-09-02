@@ -9,12 +9,12 @@ using namespace std;
 int main()
 {
     int number = 849;
-    int *pointerToNumber;
-    pointerToNumber = &number;
+    int *pointerToNumber =&number;
+  //  pointerToNumber = &number;
     //To print the addresses
     cout<<"The address of number is : "<<pointerToNumber<<endl;
     cout<<"The address of number with pointer is : "<<&number<<endl;
-    cout<<"The addresss of the pointer variable is : "<<&pointerToNumber<<endl;
+    cout<<"The address of the pointer variable is : "<<&pointerToNumber<<endl;
 
     //To access the value stored in the pointer
     cout<<"The value store in the pointer is : "<<*pointerToNumber<<endl;//Dereferencing the pointer
@@ -27,10 +27,13 @@ int main()
     cout<<"The pointer two stores : "<<**pointerTo_ptr<<endl;
 
     //How to use void pointer
+    float fp = 567;
     void *vp;
     vp = &number;
+   // vp =&fp;
     cout<<"The address of number using vp is : "<<vp<<endl;
     cout<<"The value of vp is : "<<*(int*)vp<<endl;
+    //cout<<"The value of vpf is : "<<*(float*)vp<<endl;
 
     return 0;  
 }
