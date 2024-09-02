@@ -10,10 +10,20 @@ using namespace std;
  */
 int main()
 {
-    int number_row = 5;//This is the number of times to row to print
+   /* int number_row = 5;//This is the number of times to row to print
     for(int i=1; i<=number_row; i++)
     {
         for(int j = 1; j<=i; j++)
+        {
+        cout<<"*";
+        }
+        cout<<"\n";
+    }
+    */
+   int number_row = 5;//This is the number of times to row to print
+    for(int i=1; i<=number_row; i++)
+    {
+        for(int j = 5; j>=i; j--)
         {
         cout<<"*";
         }

@@ -14,6 +14,12 @@ using namespace std;
  */
 int main()
 {
+    char decision;
+    cout<<"Enter Y to start ";
+    cin>>decision;
+   // if(toupper(decision)=='Y')
+   while(toupper(decision) == 'Y')
+    {
     cout << "Enter 'C' to find area of circle, 'S' for square, 'T' for triangle: ";
     char choice;
     cin >> choice;
@@ -53,5 +59,9 @@ int main()
     cout<<"Invalid choice. Thank you.\n";
         break;
     }
+    }
+    decision++;
+    cout<<"Do you want to perfom another calculation ? \nYES/NO \nEnter Y for YES Or N for NO ";
+    cin>>decision;
    return 0;
 } 
