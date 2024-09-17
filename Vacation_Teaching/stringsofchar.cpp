@@ -6,8 +6,8 @@ int main()
     char ch;
     cin>>ch;
     cout <<"you entered "<<ch<<endl;
-    char *memory= &ch;
-    cout<<"The address of character is : "<<&ch<<endl;
+    //char *memory= &ch;
+   // cout<<"The address of character is : "<<&ch<<endl;
     char firstName[15] = {'A','B','E','D','N','E','G','O','e','\0','b'};
     cout <<firstName<<"\n\n";
     char lastName[20];
