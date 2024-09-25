@@ -3,6 +3,7 @@ using namespace std;
 //Using recursion to find the factorial of a number
 //Use Indirect recursive type
 //Allow user the user to enter number.
+//A condition to check for positive number entered.
 int functionOne (int n);
 int functionTwo(int m);
 int main()

@@ -15,6 +15,4 @@ int main()
     y_t_channel.ownerName = "Adjo";
 
     cout<<y_t_channel.name<<endl;
-    system("pause>0");
-    cin.get();
 }
