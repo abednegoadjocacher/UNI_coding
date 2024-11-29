@@ -62,7 +62,7 @@ int main()
     //Invoking the method
 
     Employee employee3 = Employee("Abi", 6);
-   // employee3.SetName("DELADEM");
+    employee3.SetName("DELADEM");
     employee3.SetAge(12);
     cout<<employee3.getName()<<" "<<employee3.getAge()<<endl;
     

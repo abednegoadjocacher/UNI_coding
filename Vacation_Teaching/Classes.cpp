@@ -23,17 +23,17 @@ int main()
 
     employee_1.Age = 56;
 
-    cout<<"Employee_1 name is "<<employee_1.name<<" and is "<<employee_1.Age<<"yrs old"<<endl;
+    //cout<<"Employee_1 name is "<<employee_1.name<<" and is "<<employee_1.Age<<"yrs old"<<endl;
 
     Employee employee_2;
 employee_2.name = "Adjocacher";
 employee_2.Age = 90;
-cout<<"Employee_2 name is "<<employee_2.name<<" and is "<<employee_2.Age<<"yrs old"<<endl;
+//cout<<"Employee_2 name is "<<employee_2.name<<" and is "<<employee_2.Age<<"yrs old"<<endl;
     
 
     //Invoking the method
     employee_1.introduceYourself();
-
+    employee_2.introduceYourself();
 
 
 

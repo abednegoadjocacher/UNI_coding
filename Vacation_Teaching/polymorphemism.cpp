@@ -95,14 +95,13 @@ class Teacher :public Employee{
 
 int main()
 {
-    
+
     DevOPs d = DevOPs("Abed" , 56 , "C++" );
    // d.Fix_bugs();
     //d.askForPromotion();
     Teacher ab = Teacher("Abednego", 34, "Mathematics");
     //ab.Lesson();
     //ab.askForPromotion();
-
     Employee *emp_ptr = &d;
     Employee *emp_tr1 = &ab;
 
